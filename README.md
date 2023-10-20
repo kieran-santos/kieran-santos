@@ -1,10 +1,11 @@
-# Hi, my name is Yara.
-## I am migrating careers to work as a DevOps Engineer.
+# Bem vindo ao meu perfil, me chamo Yara!
+## Estou no processo de migração de carreira para trabalhar como Cloud/DevOps Engineer.
 
-I am well-versed in Linux, with a certificate from LinuxTips School, and also have a good understanding of AWS and its tools and resources. I have been studying networks, Docker and other tools related to the job of a DevOps Engineer. I'm currently creating projects to add to this portfolio, in order to start working as a Junior or Trainee in this field.
+Possuo conhecimento com operação de distribuições Linux e com Cloud Computing (especificamente AWS), com certificados em ambos pela LinuxTips School.
+Além disso, estudo sobre networks, Docker, Kubernetes e outras ferramentas relacionadas ao trabalhao de um DevOps Engineer. Atualmente estou criando projetos para adicionar a este portfólio como parte de meu currículo, para começar a trabalhar na área como Trainee ou Junior. 
 
 ### Main Skills:
 * Linux
-* AWS (IAM, EC2, CloudWatch, Lambda, S3, DynamoDB, RDS, SNS, Route53, VPC and Amplify)
+* AWS (especialmente IAM, EC2, CloudWatch, Lambda, S3, DynamoDB, RDS, SNS, Route53, VPC and Amplify)
 
-*I am looking for a beginner's project to participate, contribute and build my skills*
+*Estou procurando por projetos para iniciantes, para poder contribuir e melhorar minhas habilidades em conjunto com outras pessoas da área.
