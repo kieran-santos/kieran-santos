@@ -13,3 +13,6 @@ Além disso, estudo sobre networks, Docker, Kubernetes e outras ferramentas rela
 * AWS (especialmente IAM, EC2, CloudWatch, Lambda, S3, DynamoDB, RDS, SNS, Route53, VPC and Amplify)
 * HTML
 * CSS
+* JavaScript
+* PHP
+* SQL
