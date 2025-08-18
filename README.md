@@ -5,6 +5,7 @@
 
 ## About me
 
+:raising_hand: I'm 26 years old and I live in Brazil<br />
 :computer: Working as a Product Owner and Q.A. Analyst at Labi9<br />
 :mortar_board: Studying to become a Data Scientist<br />
 :school: Undergrad student at Fatec Jahu (SP, Brazil)<br />
