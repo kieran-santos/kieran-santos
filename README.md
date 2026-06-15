@@ -5,12 +5,12 @@
 
 ## About me
 
-:raising_hand: I'm 26 years old and I live in Brazil<br />
+:raising_hand: I'm 27 years old and I live in Brazil<br />
 :computer: Working as a Product Owner and Q.A. Analyst at Labi9<br />
 :mortar_board: Studying to become a Data Scientist<br />
 :school: Undergrad student at Fatec Jahu (SP, Brazil)<br />
 :star: Main languages: Python and SQL<br />
-:seedling: Learning how to use Python for Data Science<br />
+:seedling: Learning how to use Python for Data Science and Machine Learning Models<br />
 <br />
 
 
